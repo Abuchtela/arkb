@@ -35,7 +35,7 @@
     "arbundles": "^0.9.3",
     "arweave": "1.11.4",
     "arweave-stream-tx": "^1.1.0",
-    "axios": "^0.21.4",
+    "axios": "^1.6.3",
     "blockweave": "^1.0.15",
     "clear": "^0.1.0",
     "cli-color": "^2.0.0",
