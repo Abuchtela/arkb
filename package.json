@@ -46,7 +46,7 @@
     "fast-glob": "^3.2.7",
     "figlet": "^1.5.2",
     "fuse.js": "^6.4.6",
-    "inquirer": "^8.1.2",
+    "inquirer": "^8.2.7",
     "mime": "^2.5.2",
     "minimist": "^1.2.5",
     "normalize-path": "^3.0.0",
